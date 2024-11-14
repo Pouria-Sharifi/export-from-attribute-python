@@ -55,3 +55,4 @@ arcpy.management.SelectLayerByAttribute(input_shapefile, "NEW_SELECTION", sql_ex
 
 # Export the selected features to a new shapefile
 arcpy.management.CopyFeatures(input_shapefile, output_shapefile)
+ 
