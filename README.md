@@ -1,4 +1,4 @@
-# export-from-attribute-python
+# export-from-attribute-Python
 This repository contains a Python script that extracts and exports data from an attribute table.
 Shapefile Filter and Export Script:
 
