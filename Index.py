@@ -1,4 +1,3 @@
-#Main Code
 import arcpy
 
 # Set the input shapefile path
